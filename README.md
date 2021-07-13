@@ -1,6 +1,6 @@
 # Similarity Computation for Graphs
 
-* Interpretable Graph Similarity Computation via Differentiable Optimal Alignment of Node Embeddings (GOTSim, SIGIR'21) [Paper](https://people.cs.vt.edu/~reddy/papers/SIGIR21.pdf) [Slides](https://github.com/khoadoan/GraphOTSim/blob/main/resources/SIGIR21-fp0937-slides.pdf) [Video](https://www.youtube.com/watch?v=IWxxsuFPsgs)
+* Interpretable Graph Similarity Computation via Differentiable Optimal Alignment of Node Embeddings (GOTSim, SIGIR'21) [[Paper](https://people.cs.vt.edu/~reddy/papers/SIGIR21.pdf)] [Slides](https://github.com/khoadoan/GraphOTSim/blob/main/resources/SIGIR21-fp0937-slides.pdf)] [[Video](https://www.youtube.com/watch?v=IWxxsuFPsgs)]
 
 
 ## Setup the environment
